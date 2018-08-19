@@ -1,0 +1,19 @@
+{
+    "name": "websys-forever/strategy",
+    "description": "Simple Calculator with Strategy design pattern",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Evgenii Melekhin",
+            "email": "websys.forever@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "WebsysForever\\": "src"
+        }
+    }
+}
